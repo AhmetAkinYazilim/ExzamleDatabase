@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "message": "Çalışma saatleri listelendi.",
+  "data": [
+    {
+      "id": 1,
+      "dietician_id": 101,
+      "day": "2025-04-15",
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "created_at": "2025-04-10T08:00:00",
+      "updated_at": "2025-04-10T08:00:00"
+    },
+    {
+      "id": 2,
+      "dietician_id": 101,
+      "day": "2025-04-15",
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "created_at": "2025-04-10T08:00:00",
+      "updated_at": "2025-04-10T08:00:00"
+    },
+    {
+      "id": 3,
+      "dietician_id": 101,
+      "day": "2025-04-16",
+      "start_time": "10:00",
+      "end_time": "14:00",
+      "created_at": "2025-04-10T08:00:00",
+      "updated_at": "2025-04-10T08:00:00"
+    }
+  ]
+}
